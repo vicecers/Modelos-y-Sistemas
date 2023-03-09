@@ -44,7 +44,7 @@ Clientes de un banco
 Diccionario Palabra
 Frase Palabra
 
-
+#### 10. Indicar los estereotipos de clase que representan el patrón de diseño MVC.
 
 
 
