@@ -31,4 +31,6 @@
   prom = sum/3;
   Sistem.out.print(prom);
   ```
+9.  ¿Cuáles son los diagramas que se emplean en la etapa de diseño un proyecto?
+  
   
