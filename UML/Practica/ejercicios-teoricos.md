@@ -1,3 +1,5 @@
+## Preguntas basicas 
+
 1. UML, por sus siglas en ingles es:
 
     a) Unit Modeling Language
@@ -32,5 +34,7 @@
   Sistem.out.print(prom);
   ```
 9.  ¿Cuáles son los diagramas que se emplean en la etapa de diseño un proyecto?
+10. ¿Cómo se clasifican los diagramas UML?
+
   
   
