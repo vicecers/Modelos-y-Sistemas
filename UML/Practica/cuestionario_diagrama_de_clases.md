@@ -17,3 +17,12 @@
 - -nombre: string
 - +calcularSaldo(): void
 
+#### 5. Explicar brevemente (con tus palabras) cual es la diferencia entre clases concretas, clases abstractas e interfaces
+
+
+#### 6. Indicar que tipo de clase o interfaz se quiere representar con la siguiente informacion:
+- Persona
+- EmpleadoAdministrativo
+- Auto
+- Controlable
+
