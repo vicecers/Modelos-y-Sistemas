@@ -32,6 +32,16 @@
 - Se puede decir que la herencia es una especialización de la super clase
 - Se puede decir que la herencia es una generalización de la clase subclase
 
+#### 8. Indicar el tipo de relación:
+- Un perro es un animal
+- Una empresa esta compuesta por varios departamentos
+- Un banco tiene varios clientes
+- alumno es una persona
+
+
+
+
+
 
 
 
