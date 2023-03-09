@@ -38,7 +38,11 @@
 - Un banco tiene varios clientes
 - alumno es una persona
 
-
+#### 9. Decir que tipo de relaciones son las siguientes expresiones (agregación o composición)
+Departamentos de una empresa
+Clientes de un banco
+Diccionario Palabra
+Frase Palabra
 
 
 
