@@ -26,3 +26,12 @@
 - Auto
 - Controlable
 
+#### 7. ¿Qué es la Herencia entre clases? Elegí dos opciones
+- Un método de construcción de clases, donde cada clase se concatena con otra
+- Indica que la clase que hereda toma los atributos y métodos de la super clase.
+- Se puede decir que la herencia es una especialización de la super clase
+- Se puede decir que la herencia es una generalización de la clase subclase
+
+
+
+
